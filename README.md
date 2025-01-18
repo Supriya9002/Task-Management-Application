@@ -96,7 +96,7 @@ You can deploy the application on any cloud platform such as **AWS**, **GCP**, *
 
 ## GitHub Repository
 
-- [Task Management Application GitHub Repository](https://github.com/your-username/task-management-app)
+- [Task Management Application GitHub Repository](https://github.com/Supriya9002/Task-Management-Application)
 ### Live Demo
 
 You can access the live version of the application here:
