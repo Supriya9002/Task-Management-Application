@@ -12,6 +12,8 @@ This is a simple task management application where users can register, log in, a
 - **Task Management:**
   - Add, edit, and delete tasks.
   - View tasks in a responsive dashboard.
+  - **Task Management:**
+  - Custom 404 error page for handling unknown URLs.
 - **Responsive UI** built with **React** and **CSS**.
 - **Task API** developed using **Node.js**, **Express.js**, and **MongoDB**.
 - **Error Handling** and **Data Validation** implemented.
