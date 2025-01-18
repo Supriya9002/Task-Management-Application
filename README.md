@@ -94,4 +94,14 @@ This is a simple task management application where users can register, log in, a
 
 - [Task Management Application GitHub Repository](https://github.com/Supriya9002/Task-Management-Application)
 
+## Deployment (Optional)
 
+You can deploy the application on any cloud platform such as **AWS**, **GCP**, **Azure**, or **Render**.
+
+- Follow the respective platform documentation for deployment steps.
+- After deployment, make sure to update the `DB_URL` and `JWT_SECRET` environment variables with the production values.
+
+### Live Demo
+
+You can access the live version of the application here:
+[Live Demo Link](https://legendary-baklava-6acaf2.netlify.app/#/login)
