@@ -36,7 +36,7 @@ This is a simple task management application where users can register, log in, a
 ### Backend Setup
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https:https://github.com/Supriya9002/Task-Management-Application
    cd task-management-app/backend
    ```
 2. Install dependencies.
@@ -89,12 +89,6 @@ This is a simple task management application where users can register, log in, a
 ### JWT Authentication Middleware
 - Protects all routes that require authentication.
 
-## Deployment (Optional)
-
-You can deploy the application on any cloud platform such as **AWS**, **GCP**, **Azure**, or **Render**.
-
-- Follow the respective platform documentation for deployment steps.
-- After deployment, make sure to update the `DB_URL` and `JWT_SECRET` environment variables with the production values.
 
 ## GitHub Repository
 
